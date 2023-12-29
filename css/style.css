@@ -1,0 +1,11 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.banner{
+    background-image: url(/banner4.avif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 200px;
+  
+
+}
